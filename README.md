@@ -37,7 +37,7 @@ To start the chatbot, follow these steps:
 ![Command Prompt Setup](images/Screenshot%202024-07-31%20124350.png)
 
 ### Chatbot Conversation
-![Chatbot Conversation](images/Screenshot%202024-07-31%20124236.png)
+![Chatbot Conversation](images/Screenshot 2024-07-31 124236.png)
 
 ### Command Prompt Setup
 
