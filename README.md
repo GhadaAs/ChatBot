@@ -34,16 +34,10 @@ To start the chatbot, follow these steps:
 ## Screenshots
 
 ### Command Prompt Setup
-![Command Prompt Setup](images/Screenshot%202024-07-31%20124350.png)
+![Command Prompt Setup](images/Screenshot2024-07-31_124350.png)
 
 ### Chatbot Conversation
-![Chatbot Conversation](images/Screenshot 2024-07-31 124236.png)
-
-### Command Prompt Setup
-
-
-### Chatbot Conversation
-
+![Chatbot Conversation](images/Screenshot2024-07-31_124236.png)
 
 ### Explanation of the API Key
 
